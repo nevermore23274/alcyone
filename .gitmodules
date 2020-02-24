@@ -1,0 +1,3 @@
+[submodule "Alcyone/vendor/spdlog"]
+	path = Alcyone/vendor/spdlog
+	url = https://github.com/gabime/spdlog
